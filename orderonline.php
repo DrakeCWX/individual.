@@ -98,6 +98,7 @@ switch($_GET["action"]) {
 							</ul>
 						</nav>
 						<div class="reservations_phone ml-auto">Reservations: +86 601</div>
+						<img src="product-images\logo1.png" width="90" height="80"></img>
 					</div>
 				</div>
 			</div>
